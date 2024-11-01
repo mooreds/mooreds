@@ -10,6 +10,7 @@ I'm a developer of web applications, writer and speaker.
 * My book, [Letters To a New Developer](https://www.apress.com/us/book/9781484260739), published in 2020
 * My [LinkedIn profile](https://linkedin.com/in/mooreds)
 * My [Twitter profile](https://twitter.com/mooreds)
+* My [Bluesky profile](https://bsky.app/profile/mooreds.com)
 * My [StackOverflow profile](http://stackoverflow.com/users/203619/mooreds)
 * My [HN profile](https://news.ycombinator.com/user?id=mooreds)
 * My [Reddit profile](https://www.reddit.com/user/mooreds)
